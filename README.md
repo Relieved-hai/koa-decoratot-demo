@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/apm/l/vim-mode.svg">
 </p>
 
-## about
+## 关于
 
 基于 Koa 开发的简易 demo
 
@@ -12,9 +12,8 @@
 
 ## 完成
 
-* [x] 使用装饰器编写路由
-* [x] 连接 mysql
-* [x] 连接 redis
-* [x] jwt 认证、token 认证
-* [x] swagger 生成 ( 待优化 )
-* [ ] 优化装饰器部分代码
+* [x] 使用装饰器编写路由 ( 待优化 )
+* [x] 连接 mysql、redis
+* [x] 完成 jwt、token 认证
+* [x] 自动生成 swagger ( 待优化 )
+* [ ] ...

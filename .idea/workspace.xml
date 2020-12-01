@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca5fb07-a0fa-4f96-92d1-3b13ef426e96" name="Default Changelist" comment="sync project">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="2ca5fb07-a0fa-4f96-92d1-3b13ef426e96" name="Default Changelist" comment="md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606828293508</updated>
-      <workItem from="1606828294911" duration="1688000" />
+      <workItem from="1606828294911" duration="2309000" />
     </task>
     <task id="LOCAL-00001" summary="sync project">
       <created>1606828752795</created>
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606828752795</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="md">
+      <created>1606830185256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606830185257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +78,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sync project" />
-    <option name="LAST_COMMIT_MESSAGE" value="sync project" />
+    <MESSAGE value="md" />
+    <option name="LAST_COMMIT_MESSAGE" value="md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2609" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606828856202">
@@ -94,9 +102,10 @@
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606828427119" />
-    <state x="2480" y="291" key="Vcs.Push.Dialog.v2" timestamp="1606828759143">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1606830186836">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1606830186836" />
     <state x="2480" y="291" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1606828759143" />
     <state x="130" y="23" width="1573" height="1038" key="dock-window-1" timestamp="1606829445358">
       <screen x="0" y="23" width="1920" height="1057" />
